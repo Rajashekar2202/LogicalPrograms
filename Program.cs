@@ -6,8 +6,7 @@ namespace LogialPrograms
     {
         public static void Main(string[] args)
         {
-            PrimeNumber.Check();
-
+            ReverseNumber.Check();
         }
     }
 }
