@@ -6,7 +6,7 @@ namespace LogialPrograms
     {
         public static void Main(string[] args)
         {
-            PerfectNumber.Check();
+            PrimeNumber.Check();
 
         }
     }
