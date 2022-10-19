@@ -6,7 +6,7 @@ namespace LogialPrograms
     {
         public static void Main(string[] args)
         {
-            FibonacciSeries.Check();
+            PerfectNumber.Check();
 
         }
     }
